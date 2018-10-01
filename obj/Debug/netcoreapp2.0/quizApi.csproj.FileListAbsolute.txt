@@ -1,0 +1,11 @@
+D:\WORK\angularTwo\quizApi\bin\Debug\netcoreapp2.0\quizApi.deps.json
+D:\WORK\angularTwo\quizApi\bin\Debug\netcoreapp2.0\quizApi.runtimeconfig.json
+D:\WORK\angularTwo\quizApi\bin\Debug\netcoreapp2.0\quizApi.runtimeconfig.dev.json
+D:\WORK\angularTwo\quizApi\bin\Debug\netcoreapp2.0\quizApi.dll
+D:\WORK\angularTwo\quizApi\bin\Debug\netcoreapp2.0\quizApi.pdb
+D:\WORK\angularTwo\quizApi\obj\Debug\netcoreapp2.0\quizApi.csprojResolveAssemblyReference.cache
+D:\WORK\angularTwo\quizApi\obj\Debug\netcoreapp2.0\quizApi.csproj.CoreCompileInputs.cache
+D:\WORK\angularTwo\quizApi\obj\Debug\netcoreapp2.0\quizApi.AssemblyInfoInputs.cache
+D:\WORK\angularTwo\quizApi\obj\Debug\netcoreapp2.0\quizApi.AssemblyInfo.cs
+D:\WORK\angularTwo\quizApi\obj\Debug\netcoreapp2.0\quizApi.dll
+D:\WORK\angularTwo\quizApi\obj\Debug\netcoreapp2.0\quizApi.pdb
