@@ -9,3 +9,14 @@ D:\WORK\angularTwo\quizApi\obj\Debug\netcoreapp2.0\quizApi.AssemblyInfoInputs.ca
 D:\WORK\angularTwo\quizApi\obj\Debug\netcoreapp2.0\quizApi.AssemblyInfo.cs
 D:\WORK\angularTwo\quizApi\obj\Debug\netcoreapp2.0\quizApi.dll
 D:\WORK\angularTwo\quizApi\obj\Debug\netcoreapp2.0\quizApi.pdb
+D:\Lenovo D drive\Projects\quizApp_Api\bin\Debug\netcoreapp2.0\quizApi.deps.json
+D:\Lenovo D drive\Projects\quizApp_Api\bin\Debug\netcoreapp2.0\quizApi.runtimeconfig.json
+D:\Lenovo D drive\Projects\quizApp_Api\bin\Debug\netcoreapp2.0\quizApi.runtimeconfig.dev.json
+D:\Lenovo D drive\Projects\quizApp_Api\bin\Debug\netcoreapp2.0\quizApi.dll
+D:\Lenovo D drive\Projects\quizApp_Api\bin\Debug\netcoreapp2.0\quizApi.pdb
+D:\Lenovo D drive\Projects\quizApp_Api\obj\Debug\netcoreapp2.0\quizApi.csprojAssemblyReference.cache
+D:\Lenovo D drive\Projects\quizApp_Api\obj\Debug\netcoreapp2.0\quizApi.csproj.CoreCompileInputs.cache
+D:\Lenovo D drive\Projects\quizApp_Api\obj\Debug\netcoreapp2.0\quizApi.AssemblyInfoInputs.cache
+D:\Lenovo D drive\Projects\quizApp_Api\obj\Debug\netcoreapp2.0\quizApi.AssemblyInfo.cs
+D:\Lenovo D drive\Projects\quizApp_Api\obj\Debug\netcoreapp2.0\quizApi.dll
+D:\Lenovo D drive\Projects\quizApp_Api\obj\Debug\netcoreapp2.0\quizApi.pdb

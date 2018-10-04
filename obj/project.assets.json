@@ -5175,10 +5175,11 @@
       ]
     },
     "Microsoft.AspNetCore.Hosting.Abstractions/2.0.2": {
-      "sha512": "358NTTCWJWpDKno3S85BU0hjxWQ8EzsyjZ5OSMi2XpQ9SrYwzTq6tlXSpVS3cV2RJ2Jx9lXc8uSXFwrOVyUieQ==",
+      "sha512": "IYUuGZlxrCHLKK25BUxT4uxnD9SkqPwTrXuV28Pj9Y4fq9TNeSo063VvAhG7H07WRC1MFOh5GRpsv/QS+YOQzw==",
       "type": "package",
       "path": "microsoft.aspnetcore.hosting.abstractions/2.0.2",
       "files": [
+        ".signature.p7s",
         "lib/netstandard2.0/Microsoft.AspNetCore.Hosting.Abstractions.dll",
         "lib/netstandard2.0/Microsoft.AspNetCore.Hosting.Abstractions.xml",
         "microsoft.aspnetcore.hosting.abstractions.2.0.2.nupkg.sha512",
@@ -5186,10 +5187,11 @@
       ]
     },
     "Microsoft.AspNetCore.Hosting.Server.Abstractions/2.0.2": {
-      "sha512": "tvz7D661JTyJXRxWLqOSH0s1zF9bLviZd14aA8poR+srvldS0gg1j62e7SaM5LQrUn+Z4dPwJqBtLXZDj5PtYw==",
+      "sha512": "5xjyYwaraHoYrxe0r2k+4fM8Zc6t7pBg1ENJmNg1rLM5vCo+HBW5vcvBdvnBhP2WqvvoUd4gFaKuW1N1uoodlQ==",
       "type": "package",
       "path": "microsoft.aspnetcore.hosting.server.abstractions/2.0.2",
       "files": [
+        ".signature.p7s",
         "lib/netstandard2.0/Microsoft.AspNetCore.Hosting.Server.Abstractions.dll",
         "lib/netstandard2.0/Microsoft.AspNetCore.Hosting.Server.Abstractions.xml",
         "microsoft.aspnetcore.hosting.server.abstractions.2.0.2.nupkg.sha512",
@@ -5219,10 +5221,11 @@
       ]
     },
     "Microsoft.AspNetCore.Http.Abstractions/2.0.2": {
-      "sha512": "yQM9JzPAExsxTqvJBBr3yC+6XyOETi2T/eOOBjrOOnYgQOO+7M7J8VvAW0wQID9zh7QqWO6kh3BGCT/aqvydtg==",
+      "sha512": "BkHAwNE2Cb3SUxtI/tNytFpYrf441SMpGBI4XL33SIgCOqqe5lLG8R/5K53GcWBPRl98+tWnOfOCf4WvkM0nLQ==",
       "type": "package",
       "path": "microsoft.aspnetcore.http.abstractions/2.0.2",
       "files": [
+        ".signature.p7s",
         "lib/netstandard2.0/Microsoft.AspNetCore.Http.Abstractions.dll",
         "lib/netstandard2.0/Microsoft.AspNetCore.Http.Abstractions.xml",
         "microsoft.aspnetcore.http.abstractions.2.0.2.nupkg.sha512",
@@ -5241,10 +5244,11 @@
       ]
     },
     "Microsoft.AspNetCore.Http.Features/2.0.2": {
-      "sha512": "1U5fPSOtIq+cPuqJTjN+EFN3dWn4ptSjybd8minSbyhy0oXr8ujYla86kb9kM3rddUBgrGCyTp/hf0/tMZab+g==",
+      "sha512": "38nV0ayTxX2kjBAysdHKhG5f+O9fl7gPQM+sxWtbrPkcHPZ2JVfLwjMuByG/t+1UZ8zDJ+hthxSMgWE3QM2guQ==",
       "type": "package",
       "path": "microsoft.aspnetcore.http.features/2.0.2",
       "files": [
+        ".signature.p7s",
         "lib/netstandard2.0/Microsoft.AspNetCore.Http.Features.dll",
         "lib/netstandard2.0/Microsoft.AspNetCore.Http.Features.xml",
         "microsoft.aspnetcore.http.features.2.0.2.nupkg.sha512",
@@ -6217,10 +6221,11 @@
       ]
     },
     "Microsoft.Extensions.Configuration.Abstractions/2.0.1": {
-      "sha512": "stGq1c136UUYOsgQuJ5fjiygqZhgt6Kj0pm4iL0qq1MICNgEKTJ4tnbXLkZfrDHDz+olsT2VY9cVv2yshg+m+A==",
+      "sha512": "EHHUIf0I26syggtj3solZ23qh3nJNXMZXEfasbbkphFmKAEagrrVjvmJsm+uvxO14xddP/TfYIeWpgzWl1Ps5Q==",
       "type": "package",
       "path": "microsoft.extensions.configuration.abstractions/2.0.1",
       "files": [
+        ".signature.p7s",
         "lib/netstandard2.0/Microsoft.Extensions.Configuration.Abstractions.dll",
         "lib/netstandard2.0/Microsoft.Extensions.Configuration.Abstractions.xml",
         "microsoft.extensions.configuration.abstractions.2.0.1.nupkg.sha512",
@@ -6498,10 +6503,11 @@
       ]
     },
     "Microsoft.Extensions.Logging.Abstractions/2.0.1": {
-      "sha512": "DzCKlMdXOysXFDBXgNnxFlpSj5AOdMkUqKEjKT1n+japTxhQ3e3MaGODZGtbIj9ezykRs9oEBGmdSHHfh4oNVA==",
+      "sha512": "P3Uh/O9sjopkSY3/kTk5RasiHc1JudHem8Mv3XYgYQv2d2Twj/WbFrosog7J/weVvAE5Lz+k2m18w/ZrywcaIQ==",
       "type": "package",
       "path": "microsoft.extensions.logging.abstractions/2.0.1",
       "files": [
+        ".signature.p7s",
         "lib/netstandard2.0/Microsoft.Extensions.Logging.Abstractions.dll",
         "lib/netstandard2.0/Microsoft.Extensions.Logging.Abstractions.xml",
         "microsoft.extensions.logging.abstractions.2.0.1.nupkg.sha512",
@@ -6608,7 +6614,7 @@
       ]
     },
     "Microsoft.Extensions.PlatformAbstractions/1.1.0": {
-      "sha512": "H6ZsQzxYw/6k2DfEQRXdC+vQ6obd6Uba3uGJrnJ2vG4PRXjQZ7seB13JdCfE72abp8E6Fk3gGgDzfJiLZi5ZpQ==",
+      "sha512": "UMlN++q5qqzQ2HH+uOrKxN5fmBXMQDhrYkSaPJxhmyzfJaFPirrVr1raim/Ocq1psAZoB9+7JSAf0GDAX35wUg==",
       "type": "package",
       "path": "microsoft.extensions.platformabstractions/1.1.0",
       "files": [
@@ -6621,10 +6627,11 @@
       ]
     },
     "Microsoft.Extensions.Primitives/2.0.0": {
-      "sha512": "ukg53qNlqTrK38WA30b5qhw0GD7y3jdI9PHHASjdKyTcBHTevFM2o23tyk3pWCgAV27Bbkm+CPQ2zUe1ZOuYSA==",
+      "sha512": "AMyFwlYdEY4GjjCFGQhUr1/0ZZyYyNjjpCx8Vwfy+Ylxv8pn649uaX5J2L7aknEtQY5+XA+TSfxRSBCgy68yvQ==",
       "type": "package",
       "path": "microsoft.extensions.primitives/2.0.0",
       "files": [
+        ".signature.p7s",
         "lib/netstandard2.0/Microsoft.Extensions.Primitives.dll",
         "lib/netstandard2.0/Microsoft.Extensions.Primitives.xml",
         "microsoft.extensions.primitives.2.0.0.nupkg.sha512",
@@ -12537,28 +12544,30 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\pandeya2\\.nuget\\packages\\": {},
+    "C:\\Users\\AkkiJason\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\WORK\\angularTwo\\quizApi\\quizApi.csproj",
+      "projectUniqueName": "d:\\Lenovo D drive\\Projects\\quizApp_Api\\quizApi.csproj",
       "projectName": "quizApi",
-      "projectPath": "D:\\WORK\\angularTwo\\quizApi\\quizApi.csproj",
-      "packagesPath": "C:\\Users\\pandeya2\\.nuget\\packages\\",
-      "outputPath": "D:\\WORK\\angularTwo\\quizApi\\obj\\",
+      "projectPath": "d:\\Lenovo D drive\\Projects\\quizApp_Api\\quizApi.csproj",
+      "packagesPath": "C:\\Users\\AkkiJason\\.nuget\\packages\\",
+      "outputPath": "d:\\Lenovo D drive\\Projects\\quizApp_Api\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\pandeya2\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\AkkiJason\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp2.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
