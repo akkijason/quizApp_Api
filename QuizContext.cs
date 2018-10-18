@@ -11,5 +11,7 @@ namespace quizApi
         public QuizContext(DbContextOptions<QuizContext> options) : base(options){ }
 
         public DbSet<Models.Question> Questions { get; set; }
+        
+        public DbSet<Models.Quiz> Quizzes { get; set; }
     }
 }
